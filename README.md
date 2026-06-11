@@ -14,7 +14,7 @@ RPA · Computer Vision · Ingeniería Inversa · DirectInput · WebSocket Interc
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)](https://opencv.org)
-[![DirectInput](https://img.shields.io/badge/DirectInput-Low%20Level%20Input-555?style=flat-square&logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/windows/win32/xinput/xinput-and-directinput)
+[![DirectInput](https://img.shields.io/badge/DirectInput-Low%20Level%20Input-555?style=flat-square&logo=windows&logoColor=white)](https://chromedevtools.github.io/devtools-protocol/)
 [![CDP](https://img.shields.io/badge/CDP-WebSocket%20Intercept-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromedevtools.github.io/devtools-protocol/)
 
 </div>
